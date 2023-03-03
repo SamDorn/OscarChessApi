@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DEF54830-56A3-4EEF-90EC-DBCCF87837AF}</ProjectGuid>
+    <ProjectGuid>{DAC70DEB-3F79-48F7-B94A-5FA1651EEE29}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>OscarChessApi</RootNamespace>
     <AssemblyName>OscarChessApi</AssemblyName>
@@ -81,10 +81,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="chess_pieces_img\" />
+    <Folder Include="img\chess_pieces\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Chessboard_green_squares.svg.png" />
+    <None Include="img\chessboard\Chessboard_green_squares.svg.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
