@@ -1,0 +1,11 @@
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\bin\Debug\OscarChessApi.exe.config
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\bin\Debug\OscarChessApi.exe
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\bin\Debug\OscarChessApi.pdb
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.csproj.AssemblyReference.cache
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.Form1.resources
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.Properties.Resources.resources
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.csproj.GenerateResource.cache
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.csproj.CoreCompileInputs.cache
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.exe
+C:\Users\mazzoni.22368\Documents\GitHub\OscarChessApi\OscarChessApi\obj\Debug\OscarChessApi.pdb
